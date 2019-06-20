@@ -5,6 +5,7 @@ This repository has the solutions to the React tic-tac-toe tutorial for version 
 This repo differs from other React tic-tac-toe tutorial repos because the solutions can be found on branches. The final solution is on master.
 
 Here are the branches:
+* step-1-setup-for-the-tutorial
 
 # This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
