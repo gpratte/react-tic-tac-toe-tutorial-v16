@@ -7,6 +7,7 @@ This repo differs from other React tic-tac-toe tutorial repos because the soluti
 Here are the branches:
 * step-1-setup-for-the-tutorial
 * step-2-overview-making-an-interactive-component
+* step-3-lifting-state-up
 
 # This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
