@@ -10,6 +10,7 @@ Here are the branches:
 * step-3-lifting-state-up
 * step-4-function-components
 * step-5-taking-turns
+* step-6-declaring-a-winner
 
 # This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
