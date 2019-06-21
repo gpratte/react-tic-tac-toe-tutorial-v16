@@ -12,6 +12,7 @@ Here are the branches:
 * step-5-taking-turns
 * step-6-declaring-a-winner
 * step-7-lifting-state-up-again
+* step-8-showing-the-past-moves
 
 # This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
