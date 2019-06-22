@@ -1,18 +1,19 @@
-# react-tic-tac-toe-tutorial-v16
+# react-tic-tac-toe-tutorial-v16.8.6
 
-This repository has the solutions to the React tic-tac-toe tutorial for version 16. See https://reactjs.org/tutorial/tutorial.html#before-we-start-the-tutorial
+This repository has the solutions to the React tic-tac-toe tutorial for version 16.8.6. See https://reactjs.org/tutorial/tutorial.html#before-we-start-the-tutorial
 
 This repo differs from other React tic-tac-toe tutorial repos because the solutions can be found on branches. The final solution is on master.
 
 Here are the branches:
-* step-1-setup-for-the-tutorial
-* step-2-overview-making-an-interactive-component
-* step-3-lifting-state-up
-* step-4-function-components
-* step-5-taking-turns
-* step-6-declaring-a-winner
-* step-7-lifting-state-up-again
-* step-8-showing-the-past-moves
+* __step-1-setup-for-the-tutorial__
+* __step-2-overview-making-an-interactive-component__
+* __step-3-lifting-state-up__
+* __step-4-function-components__
+* __step-5-taking-turns__
+* __step-6-declaring-a-winner__
+* __step-7-lifting-state-up-again__
+* __step-8-showing-the-past-moves__
+* __step-9-implementing-time-travel__
 
 # This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
